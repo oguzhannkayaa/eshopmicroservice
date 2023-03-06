@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\SellingPart\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SellingPart\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SellingPart\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SellingPart\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.AssemblyInfo.cs
+C:\Users\user\source\repos\SellingPart\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.csproj.CoreCompileInputs.cache
